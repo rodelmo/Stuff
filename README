@@ -1,1 +1,6 @@
 hello world
+
+CSS:
+elemento: div
+clase: .clase
+id: #id
